@@ -16,7 +16,7 @@
 [![Applications](https://skillicons.dev/icons?i=androidstudio,blender,docker,git,nginx,vscode&perline=8)](https://skillicons.dev)
 
 ### Other Skills
-[![Applications](https://skillicons.dev/icons?i=github,githubactions,linux,latex,md,raspberrypi&perline=8)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=github,githubactions,linux,latex,md,raspberrypi&perline=8)](https://skillicons.dev)
 
 ## PCB Designs:
 <a href="https://github.com/carlansell94/wii-u-usb-c-board">
@@ -27,7 +27,8 @@
 </a>
 
 ## Gists:
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=f1fecf94da53f5e51c065df5ed0492fb)](https://gist.github.com/carlansell94/f1fecf94da53f5e51c065df5ed0492fb/)
+[![Gist Card 1](https://github-readme-stats.vercel.app/api/gist?id=f1fecf94da53f5e51c065df5ed0492fb)](https://gist.github.com/carlansell94/f1fecf94da53f5e51c065df5ed0492fb/)
+[![Gist Card 2](https://github-readme-stats.vercel.app/api/gist?id=0b39b25806fa3563b6d92b0c9a88cc86)](https://gist.github.com/carlansell94/0b39b25806fa3563b6d92b0c9a88cc86/)
 
 
 ## Github Stats:
