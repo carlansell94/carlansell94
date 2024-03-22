@@ -28,7 +28,8 @@
 
 ## Gists:
 [![Gist Card 1](https://github-readme-stats.vercel.app/api/gist?id=f1fecf94da53f5e51c065df5ed0492fb)](https://gist.github.com/carlansell94/f1fecf94da53f5e51c065df5ed0492fb/)
-[![Gist Card 2](https://github-readme-stats.vercel.app/api/gist?id=0b39b25806fa3563b6d92b0c9a88cc86)](https://gist.github.com/carlansell94/0b39b25806fa3563b6d92b0c9a88cc86/)
+[![Gist Card 2](https://github-readme-stats.vercel.app/api/gist?id=a21163b1eaf8dd326e7529694ca90042)](https://gist.github.com/carlansell94/a21163b1eaf8dd326e7529694ca90042/)
+[![Gist Card 3](https://github-readme-stats.vercel.app/api/gist?id=0b39b25806fa3563b6d92b0c9a88cc86)](https://gist.github.com/carlansell94/0b39b25806fa3563b6d92b0c9a88cc86/)
 
 
 ## Github Stats:
